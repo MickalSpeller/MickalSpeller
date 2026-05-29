@@ -1,4 +1,4 @@
-## Mickal Speller
+# C O M P U T E R M I K E
 
 <!--
 **MickalSpeller/MickalSpeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
