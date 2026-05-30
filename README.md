@@ -21,4 +21,7 @@ variable "interests" {
     "computing",
     "hip-hop"
 }
+output "perspectives" {
+  value = gratitude.growth
+}
 ```
