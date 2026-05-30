@@ -10,9 +10,9 @@
 
 ```hcl
 resource "mickal_speller" "computermike" {
-  scripting = ["python","hcl","bicep","powershell"]
+  scripting = ["python","hcl","bicep","powershell","bash"]
   networking = ["cisco","hpe","paloalto","fortigate","juniper"]
-  cloudtech = ["azure","aws","docker","linux","git","ci/cd"]
+  cloudtech = ["azure","aws","docker","linux","git","ci/cd","AI/ML"]
 }
 variable "interests" {
   type = list(some)
