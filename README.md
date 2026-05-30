@@ -8,7 +8,7 @@
     <a href="https://github.com/MickalSpeller">
       <img src="https://komarev.com/ghpvc/?username=MickaSpeller&color=brightgreen" />
     </a>
-[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)]
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
