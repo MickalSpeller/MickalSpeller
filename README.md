@@ -14,7 +14,7 @@ resource "mickal_speller" "computermike" {
   networking = ["cisco","hpe","paloalto","fortigate","juniper"]
   cloudtech = ["azure","aws","docker","linux","git","ci/cd"]
 }
-vairable "interests" {
+variable "interests" {
   type = list(some)
   default = [
     "chess",
