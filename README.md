@@ -4,7 +4,10 @@
 
 [![Linkedin: MickalSpeller](https://img.shields.io/badge/-mickalspeller-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mickalspeller/)](https://www.linkedin.com/in/mickalspeller/)
 [![GitHub MickalSpeller](https://img.shields.io/github/followers/mickalspeller?label=follow&style=social)](https://github.com/mickalspeller)
-
+</a>
+    <a href="https://github.com/MickalSpeller">
+      <img src="https://komarev.com/ghpvc/?username=MickaSpeller&color=brightgreen" />
+    </a>
 
 <p> A little more about me...  </p>  
 
