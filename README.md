@@ -1,4 +1,4 @@
-<h2> Hi, I'm Mickal Speller aka C O M P U T E R M I K E </h2>
+<h2> Hi, I'm Mickal Speller </h2>
 
 <p>I.T. professional, experienced designing, implementing, and supporting complex internetworking systems. Grounded in network engineering, network security, cloud infrastructure, and automation. </p>
 
