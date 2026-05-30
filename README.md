@@ -9,7 +9,7 @@
 <p> A little more about me...  </p>  
 
 ```hcl
-resource "mickal_speller" "computermike" {
+resource "mickal_speller" "skill_set" {
   scripting = ["python","hcl","bicep","powershell","bash"]
   networking = ["cisco","hpe","paloalto","fortigate","juniper"]
   cloudtech = ["azure","aws","docker","linux","git","ci/cd","AI/ML"]
