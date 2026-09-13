@@ -20,7 +20,7 @@ resource "mickal_speller" "skill_set" {
   scripting = ["python","terraform","bicep","powershell","bash"]
   networking = ["cisco","hpe","paloalto","fortigate","juniper"]
   cloud = ["azure","aws","AI/ML"]
-  devops = ["docker,"linux","git","ci/cd"}
+  devops = ["docker,"linux","git","ci/cd"]
 }
 variable "interests" {
   type = list(some)
