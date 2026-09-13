@@ -17,9 +17,10 @@
 
 ```hcl
 resource "mickal_speller" "skill_set" {
-  scripting = ["python","hcl","bicep","powershell","bash"]
+  scripting = ["python","terraform","bicep","powershell","bash"]
   networking = ["cisco","hpe","paloalto","fortigate","juniper"]
-  cloudtech = ["azure","aws","docker","linux","git","ci/cd","AI/ML"]
+  cloud = ["azure","aws","AI/ML"]
+  devops = ["docker,"linux","git","ci/cd"}
 }
 variable "interests" {
   type = list(some)
